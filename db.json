@@ -3,17 +3,16 @@
     {
       "id": 1,
       "description": "Clean the barn",
-      "amount": 200.50,
+      "amount": 200.5,
       "status": "pending",
       "date": "2024-10-01"
     },
-  {
+    {
       "id": 2,
       "description": "Clean the barn",
-      "amount": 200.50,
+      "amount": 200.5,
       "status": "pending",
       "date": "2024-10-01"
     }
-    
   ]
 }
